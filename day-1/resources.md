@@ -52,4 +52,5 @@ A sustainable solution that calculates the carbon emissions attributed to a webs
 
 -> Note that Cisco plans to achieve its carbon-neutral goals by 2040.
 
+-> Future prospects could also include a chrome extension.
 
