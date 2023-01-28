@@ -1,4 +1,4 @@
-# Reference Sites:
+### Reference Sites:
 
 https://observatory.mozilla.org/
 
@@ -20,7 +20,7 @@ https://marmelab.com/blog/2022/04/05/greenframe-compare.html
 
 https://en.reset.org/whats-carbon-footprint-your-website/
 
-# Question(s) asked:
+### Question(s) asked:
 
 What is the USP? Why should people come to this particular website instead of the other options? 
 -> Highlight the benefits of sustainable websites from business perspective and give an under the roof information.
@@ -31,13 +31,13 @@ What is the USP? Why should people come to this particular website instead of th
 
 -> Another suggestion is to niche down and focus on few target audience.
 
--> Green websites could be awarded with badge (For reference see clevercarbon's badge by greenpixie) - emphasise its importance in building customer trust.\
+-> Green websites could be awarded with badge (For reference see clevercarbon's badge by greenpixie) - emphasise its importance in building customer trust.
 
-# Competitor Analysis:
+### Competitor Analysis:
 
 The other problem statements discussed on the session focused on better/ free storage options and others with municipal complaints directory. Some also focused on supply-chain management.
 
-# Submissions:
+### Submissions/ Others:
 
 -> The presentation was shared during review call.
 
