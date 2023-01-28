@@ -24,9 +24,15 @@ https://en.reset.org/whats-carbon-footprint-your-website/
 
 What is the USP? Why should people come to this particular website instead of the other options? 
 -> Highlight the benefits of sustainable websites from business perspective and give an under the roof information.
+
 -> Future prospects include offering visitors not only an analysis of carbon-emissions of the website but also giving them all the required resources.
+
 -> For example - image compression, minifying the scripts options available on the website itself.
+
 -> Another suggestion is to niche down and focus on few target audience.
--> Green websites could be awarded with badge (For reference see clevercarbon's badge by greenpixie) - emphasise its importance in building customer trust.
+
+-> Green websites could be awarded with badge (For reference see clevercarbon's badge by greenpixie) - emphasise its importance in building customer trust.\
+
+
 
 
