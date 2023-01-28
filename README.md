@@ -1,4 +1,4 @@
-Cisco ThingQbator Hackathon - 2023
+### Cisco ThingQbator Hackathon - 2023
 
 A 4 Days Virtual Hackathon for students from diverse backgrounds to begin their journey into the world of technology, where we will experience the exhilaration of a hackathon.
 
